@@ -6,7 +6,7 @@ import boto3
 API_KEY = ""
 
 # Nome da tabela no DynamoDB
-NOME_TABELA = "SÃOLUISMABARES"
+NOME_TABELA = "SÃOLUIS"
 
 # Cria a conexão com o DynamoDB
 # dynamodb = boto3.resource("dynamodb")
